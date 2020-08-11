@@ -2,6 +2,8 @@
 
 ### A Front-end Developer and UX Designer 
 
+#### I am passionate about development and interface design ... I try to unite the best of both worlds, code and design.
+
 
 <!--
 **Gpacheco019/Gpacheco019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
