@@ -1,6 +1,6 @@
 # Hi Dear 👋 I'm Gabriel Pacheco
 
-### A Front-end Developer and UX Designer 
+### A Front-end Developer. 
 
 #### I am passionate about development and interface design ... I try to unite the best of both worlds, code and design.
 
